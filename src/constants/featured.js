@@ -14,6 +14,14 @@ const featuredProjects = [
         code_url: "https://github.com/ridwaan-1/Portfolio",
         stacks: ['ReactJs'],
         description: "A website where I showcase all projects I have worked on."
+    },
+    {
+        name: "Personal Portfolio",
+        img_url: "https://i.ibb.co/GxdsqT7/portfolio.png",
+        demo_url: "",
+        code_url: "https://github.com/ridwaan-1/Portfolio",
+        stacks: ['ReactJs'],
+        description: "A website where I showcase all projects I have worked on."
     }
 ];
 
