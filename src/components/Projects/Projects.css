@@ -1,0 +1,20 @@
+.otherprojects_container {
+    /* display: inline-flex;
+    flex-wrap: wrap;
+    gap: 20px; */
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 20px;
+}
+
+@media screen and (max-width:855px) {
+    .otherprojects_container {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .otherprojects_container {
+        grid-template-columns: 1fr;
+    }
+}

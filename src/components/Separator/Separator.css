@@ -1,0 +1,7 @@
+.separator {
+    height: 10px;
+    width: 200px;
+    border-radius: 10px;
+    background: var(--gradient-bar);
+    margin-top: 3rem;
+}

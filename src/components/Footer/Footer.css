@@ -1,0 +1,14 @@
+footer {
+    margin-top: 3rem;
+    border-top: 2px solid var(--color-subtext);
+    font-weight: 700;
+    text-align: center;
+}
+
+footer h1 {
+    margin: 1rem 0;
+}
+
+footer p {
+    margin-bottom: 1rem;
+}
